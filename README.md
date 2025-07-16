@@ -25,7 +25,7 @@ Built using Python, Streamlit, and Playwright, the project combines web scraping
 Track all progress in [GitHub Discussions](https://github.com/Mustaq-Basha/student-buddy/discussions).
 
 ## 📷 Screenshots
-*(Add later as you progress)*
+*(Will add later as the projectprogress)*
 
 ## 💡 Contributions
 Want to help with scraping logic or translation modules? Pull requests and suggestions are welcome!
